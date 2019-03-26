@@ -57,7 +57,7 @@ To add your name to a paper the table below, edit the
 | 16 Apr 2019 |                    |              |
 | 23 Apr 2019 |                    |              |
 | 30 Apr 2019 |                    |              |
-| 07 May 2019 |                    |              |
+| 07 May 2019 | Petra Doubravová   | PlaNet       |Danijar Hafner, Timothy Lillicrap, Ian Fischer, Ruben Villegas, David Ha, Honglak Lee, James Davidson: **[Learning Latent Dynamics for Planning from Pixels](https://arxiv.org/abs/1811.04551)
 |*14 May 2019*|*No DL Seminar*     |              | *Rector's Day*
 | 21 May 2019 |                    |              |
 
